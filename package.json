@@ -1,0 +1,35 @@
+{
+	"name": "tcc-senai-2023",
+	"version": "1.0.0",
+	"description": "",
+	"main": "",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"config": {
+		"commitizen": {
+			"path": "node_modules/cz-git",
+			"czConfig": "./config/cz.config.js"
+		}
+	},
+	"devDependencies": {
+		"commitizen": "^4.3.0",
+		"cz-git": "^1.4.1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/auryan/TCC-SENAI-2023.git"
+	},
+	"bugs": {
+		"url": "https://github.com/auryan/TCC-SENAI-2023/issues"
+	},
+	"homepage": "https://github.com/auryan/TCC-SENAI-2023#readme",
+	"authors": [
+		{"name": "Bruno de Santana Carvalho"},
+		{"name": "Cleyan Sampaio dos Santos"},
+		{"name": "Elber Luiz Batista Costa"},
+		{"name": "Jeane Aparecida Ferreira Cerqueira"},
+		{"name": "Kaylan Santos da Silva"}
+	],
+	"license": "MIT"
+}
