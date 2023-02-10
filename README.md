@@ -21,6 +21,10 @@ Ainda não definido.
 - :large_blue_circle: [Jeane Aparecida Ferreira Cerqueira](https://github.com/JeaneAp);
 - :purple_circle: [Kaylan Santos da Silva](https://github.com/Kaylan-Santos).
 
+## :open_book: Anotações
+
+Todas as anotações das reuniões da equipe estão disponíveis na pasta [**`meeting-notes`**](meeting-notes/).
+
 ## :speech_balloon: Padrão de Commits
 
 Para padronizar as mensagens de commits, utilizamos o **Commitizen** com o adaptador **cz-git**.
