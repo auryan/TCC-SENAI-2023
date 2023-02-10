@@ -17,8 +17,8 @@ Ainda não definido.
 ### Equipe
 - :orange_circle: [Bruno de Santana Carvalho](https://github.com/Brunoxs4444);
 - :green_circle: [Cleyan Sampaio dos Santos](https://github.com/auryan);
-- :yellow_circle: Elber Luiz Batista Costa;
-- :large_blue_circle: Jeane Aparecida Ferreira Cerqueira;
+- :yellow_circle: [Elber Luiz Batista Costa](https://github.com/Elber-luiz);
+- :large_blue_circle: [Jeane Aparecida Ferreira Cerqueira](https://github.com/JeaneAp);
 - :purple_circle: [Kaylan Santos da Silva](https://github.com/Kaylan-Santos).
 
 ## :speech_balloon: Padrão de Commits
