@@ -25,6 +25,8 @@ Ainda não definido.
 
 Todas as anotações das reuniões da equipe estão disponíveis na pasta [**`meeting-notes`**](meeting-notes/).
 
+---
+
 ## :speech_balloon: Padrão de Commits
 
 Para padronizar as mensagens de commits, utilizamos o **Commitizen** com o adaptador **cz-git**.
